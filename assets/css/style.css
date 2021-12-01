@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+        background: #4776E6;
+background: -webkit-linear-gradient(to right, #8E54E9, #4776E6);
+background: linear-gradient(to right, #8E54E9, #4776E6);
+font-family: 'Roboto', sans-serif;
+      }
+      .bg{
+        background: #1A2980;background: -webkit-linear-gradient(to right, #26D0CE, #1A2980);background: linear-gradient(to right, #26D0CE, #1A2980);
+      }
+      .box
+      {
+        height: 100px;
+        width: 100px;
+        background: #fff;
+        text-align: center;
+        border-radius: 50%;
+        border: 3px solid #4776E6;
+        margin: 0px auto;
+        box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
+        line-height: 100px;
+      }
+      .box img{
+        height: 50%;
+      }
+      .text_style{
+    background: #1D976C;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #93F9B9, #1D976C);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #93F9B9, #1D976C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+      }
