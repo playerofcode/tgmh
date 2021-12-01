@@ -268,6 +268,7 @@ class Home extends CI_Controller {
 				  
 			else:
 				$this->post();
+				//waaajhbhj
 			endif;
 			
 		}
